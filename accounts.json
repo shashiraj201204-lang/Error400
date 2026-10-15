@@ -1,0 +1,46 @@
+[
+  {
+    "uid": "8277477538",
+    "password": "FDFRCTPDLS3QFRGHIJOFIBGKG4BWE11LQ4B1BPYHPTHXI2UZ84HYV2S6KGJPLCP4",
+    "name": "XIRUSBUD7Y",
+    "account_id": "18728521776",
+    "open_id": "f00cd66959310f4704f5820d0c0a13a0",
+    "access_token": "0ae52452648ffc978816b4cd334ba02f016d945eb40ddc85610c9b8c80173d5d",
+    "region": "IND",
+    "date": "2026-10-15 08:07:01",
+    "owner": "admin"
+  },
+  {
+    "uid": "8277477565",
+    "password": "CIQ4CX8CO1T4XL2L6MZ4YZWYE4GJTGHMTI5OT5951UMSTQYNDZ0YJDNOHUP72595",
+    "name": "XIRUSZTV5V",
+    "account_id": "18728521852",
+    "open_id": "122f07aebbca629ca9feb048a41257c4",
+    "access_token": "9d002184da4bf2b367314ffe944c8eda54f1223d2c043af09a03199d4c35707e",
+    "region": "IND",
+    "date": "2026-10-15 08:07:01",
+    "owner": "admin"
+  },
+  {
+    "uid": "8277477566",
+    "password": "98MBEB3JTEXHJGVU0CUUDSUPXLINZE7SFL9D7IZ15PAC4TT95BROMQZ182SRQXTG",
+    "name": "XIRUSZYNUS",
+    "account_id": "18728521910",
+    "open_id": "537563de553b0d0db0eafb8864e9d7cc",
+    "access_token": "148f861f39206da733dd23f21dadeccbd594c353613bfce987c620283b79f089",
+    "region": "IND",
+    "date": "2026-10-15 08:07:01",
+    "owner": "admin"
+  },
+  {
+    "uid": "8277483606",
+    "password": "457QG5J9Y5MHE6BJK8SM0PLDRHCRXLUBL0LO6KV3IB2NXP24W093TOVX4ZZNF5AX",
+    "name": "XIRUSFR833",
+    "account_id": "18728530261",
+    "open_id": "de531a4b3acb47800badf490f92d4ecc",
+    "access_token": "e5a7e1d857e05d83e16b53d660e83e41da1b5fa55059b601f18e5349f4405bee",
+    "region": "IND",
+    "date": "2026-10-15 08:07:47",
+    "owner": "admin"
+  }
+]
